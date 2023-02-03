@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tesla-clone/static/css/main.0349ada5.css",
+    "main.js": "/tesla-clone/static/js/main.e81d882d.js",
+    "static/js/787.860837ff.chunk.js": "/tesla-clone/static/js/787.860837ff.chunk.js",
+    "static/media/Tesla1.jpeg": "/tesla-clone/static/media/Tesla1.372f67ca29f5537fdd31.jpeg",
+    "static/media/Tesla5.jpeg": "/tesla-clone/static/media/Tesla5.ca96bddb758d659d3686.jpeg",
+    "static/media/Tesla6.jpeg": "/tesla-clone/static/media/Tesla6.beca7b95705f936de68a.jpeg",
+    "static/media/Tesla2.jpeg": "/tesla-clone/static/media/Tesla2.e9d7d00db3f8bcebc371.jpeg",
+    "static/media/Tesla3.jpeg": "/tesla-clone/static/media/Tesla3.5fe4e11ea3352d04549e.jpeg",
+    "static/media/Tesla4.jpeg": "/tesla-clone/static/media/Tesla4.d6836232a1dffd94615f.jpeg",
+    "static/media/Tesla7.jpeg": "/tesla-clone/static/media/Tesla7.027ada94d343f5d81f6d.jpeg",
+    "index.html": "/tesla-clone/index.html",
+    "main.0349ada5.css.map": "/tesla-clone/static/css/main.0349ada5.css.map",
+    "main.e81d882d.js.map": "/tesla-clone/static/js/main.e81d882d.js.map",
+    "787.860837ff.chunk.js.map": "/tesla-clone/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0349ada5.css",
+    "static/js/main.e81d882d.js"
+  ]
+}
